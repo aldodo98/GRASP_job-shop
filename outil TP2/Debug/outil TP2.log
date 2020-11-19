@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\新建文件夹\outil TP2\源.cpp(20,2): warning C4091: “typedef ”: 没有声明变量时忽略“Mp”的左侧
+  outil TP2.vcxproj -> D:\新建文件夹\outil TP2\Debug\outil TP2.exe
